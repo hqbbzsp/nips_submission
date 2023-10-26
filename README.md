@@ -1,4 +1,7 @@
+<center>
 # nips_submission
+</center>
+
 ## Team Introduction
 
 ### Team Name
@@ -17,7 +20,7 @@ NJUST-A!dge
 
 ### Project Overview
 
-[Our team made three submissions at track 4090 and A100 respectively. A total of 6 submissions were submitted.]
+Our team made three submissions at track 4090 and A100 respectively. A total of 6 submissions were submitted.
 
 ### Folder Structure
 
