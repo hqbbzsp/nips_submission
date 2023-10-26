@@ -24,7 +24,7 @@ Our team made three submissions at track 4090 and A100 respectively. A total of 
 
 Project Root/
 
-├── submissions_of_4090/
+├── submission_of_4090/
 
 │ ├── submission 1
 
@@ -32,7 +32,7 @@ Project Root/
 
 │ └── submission 3
 
-├── submissions_of_A100/
+├── submission_of_A100/
 
 │ ├── submission 1
 
