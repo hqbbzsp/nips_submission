@@ -3,15 +3,15 @@
 
 ### Team Name
 
-[NJUST-A!dge]
+NJUST-A!dge
 
 ### Team Members
 
-- [Shupeng Zhong]
-- [Yu Xia]
-- [Shifeng Yi]
-- [qingguo Chen]
-- [Yang Yang]
+- Shupeng Zhong
+- Yu Xia
+- Shifeng Yi
+- qingguo Chen
+- Yang Yang
 
 ## Project Structure
 
@@ -22,14 +22,23 @@
 ### Folder Structure
 
 Project Root/
+
 ├── submissions_of_4090/
+
 │ ├── submission 1
+
 │ ├── submission 2
+
 │ └── submission 3
+
 ├── submissions_of_A100/
+
 │ ├── submission 1
+
 │ ├── submission 2
+
 │ └── submission 3
+
 └── README.md
 
 
