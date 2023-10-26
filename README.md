@@ -11,7 +11,7 @@ NJUST-A!dge
 - Shupeng Zhong
 - Yu Xia
 - Shifeng Yi
-- qingguo Chen
+- Qingguo Chen
 - Yang Yang
 
 ## Project Structure
