@@ -1,6 +1,4 @@
-<center>
 # nips_submission
-</center>
 
 ## Team Introduction
 
