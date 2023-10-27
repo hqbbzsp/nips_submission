@@ -1,6 +1,8 @@
 # nips_submission
 
-## Team Introduction
+## Team Introduction--We are a student team
+
+- My school email: zspnjlgdx@njust.edu.cn
 
 ### Team Name
 
