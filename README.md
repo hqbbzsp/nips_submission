@@ -20,19 +20,13 @@ NJUST-A!dge
 
 Our team made three submissions at track 4090 and A100 respectively. A total of 6 submissions were submitted.
 
+The submission of A100 track is here: https://github.com/hqbbzsp/nips_submission_A100
+
 ### Folder Structure
 
 Project Root/
 
 ├── submission_of_4090/
-
-│ ├── submission 1
-
-│ ├── submission 2
-
-│ └── submission 3
-
-├── submission_of_A100/
 
 │ ├── submission 1
 
